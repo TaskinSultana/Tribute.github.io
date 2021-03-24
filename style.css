@@ -1,0 +1,42 @@
+#title{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+#image{
+    align-self: center;
+    display: block;
+    margin: auto 150px;
+}
+#img-caption{
+    font-size: 18px;
+}
+#img-div > image{
+     width: 100%;
+     height:auto;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+.one ul{
+    align-items: center;
+}
+li{
+    display: list-item;
+    font-size: 20px;
+    margin:auto  180px;
+}
+.second{
+    margin:auto 120px;
+}
+h4{
+    font-size: 25px;
+    text-align: center;
+    margin: 90px;
+}
